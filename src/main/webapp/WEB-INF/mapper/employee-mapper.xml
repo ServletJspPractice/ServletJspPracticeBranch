@@ -18,4 +18,11 @@
         )
     </entry>
 
+    <entry key="updateEmp">
+        UPDATE TBL_EMPLOYEE
+        SET ENT_DATE = ?
+        , ENT_YN = 'Y'
+        WHERE EMP_ID = ?
+    </entry>
+
 </properties>
