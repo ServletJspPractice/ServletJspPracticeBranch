@@ -21,5 +21,8 @@
     <input type="text" name="empId" id="empId">
     <button type="submit">조회하기</button>
 </form>
+
+<hr>
+
 </body>
 </html>
